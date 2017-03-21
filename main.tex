@@ -1,0 +1,23 @@
+\documentclass[a5paper, 11pt]{article}
+\usepackage{ upgreek }
+\usepackage[left=1.5cm,right=1cm,
+top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage[T2A]{fontenc}                       % Поддержка русских букв
+\usepackage[utf8]{inputenc}                     % Кодировка utf8
+\usepackage[english, russian]{babel}
+\pagestyle{empty}
+
+\begin{document}
+
+{ 
+
+\noindent {\scriptsize   {\bfseries 144}
+\hfill{\textsection{ } 47. Криволинейные интегралы}}\\ \\
+Обозначим через $\upgamma_\upeta$ совокупность всех точек плоскости, находящихся от $\upgamma$ на расстоянии, не большем чем $\upeta$. Множество $\upgamma_\upeta$ ограничено, замкнуто (см. там же лемму 6) и $\upgamma_\upeta{\subset}$G.
+\par В силу равномерной непрерывности функций x(t) и y(t) на отрезке
+[a, b] существует такое число $\updelta_0 > 0$, что для любых двух точек $t' \in[a,b]$ и $t''\in[a, b]$, удовлетворяющих условию $|t' - t''| < \updelta_0$, выполняется неравенство 
+$$\uprho(M', M'')=\sqrt{[x(t'')-x(t')]^2+[y(t'')-y(t')]^2}<\upeta, $$
+
+\noindentгде M' = (x(t'), y(t')), M'' = (x(t''), y(t'')). Все точки отрезка с концовками в точках M' и M'', очевидно, также находятся от точки M' на расстоянии, не большем чем $\upeta$, и потому лежат в $\upgamma_\upeta$ и, следовательно, в G. Поэтому, если мелкость $\updelta_\uptau$ разбиения $\uptau$ отрезка [a, b] такова, что $\updelta_\uptau < \updelta_0$, то все точки ломанной $\uplambda_\uptau$ лежат в G, и для таких разбиений $\uptau$ имеет смысл рассматривать интеграл $\int_{\updelta_\uptau}{Pdx}+ Qdy$.
+}
+\end{document}
