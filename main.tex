@@ -5,6 +5,7 @@ top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \usepackage[T2A]{fontenc}                       % Поддержка русских букв
 \usepackage[utf8]{inputenc}                     % Кодировка utf8
 \usepackage[english, russian]{babel}
+\usepackage{ amsmath }
 \pagestyle{empty}
 
 \begin{document}
@@ -18,6 +19,11 @@ top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
 [a, b] существует такое число $\updelta_0 > 0$, что для любых двух точек $t' \in[a,b]$ и $t''\in[a, b]$, удовлетворяющих условию $|t' - t''| < \updelta_0$, выполняется неравенство 
 $$\uprho(M', M'')=\sqrt{[x(t'')-x(t')]^2+[y(t'')-y(t')]^2}<\upeta, $$
 
-\noindentгде M' = (x(t'), y(t')), M'' = (x(t''), y(t'')). Все точки отрезка с концовками в точках M' и M'', очевидно, также находятся от точки M' на расстоянии, не большем чем $\upeta$, и потому лежат в $\upgamma_\upeta$ и, следовательно, в G. Поэтому, если мелкость $\updelta_\uptau$ разбиения $\uptau$ отрезка [a, b] такова, что $\updelta_\uptau < \updelta_0$, то все точки ломанной $\uplambda_\uptau$ лежат в G, и для таких разбиений $\uptau$ имеет смысл рассматривать интеграл $\int_{\updelta_\uptau}{Pdx}+ Qdy$.
+\noindentгде M' = (x(t'), y(t')), M'' = (x(t''), y(t'')). Все точки отрезка с концовками в точках M' и M'', очевидно, также находятся от точки M' на расстоянии, не большем чем $\upeta$, и потому лежат в $\upgamma_\upeta$ и, следовательно, в G. Поэтому, если мелкость $\updelta_\uptau$ разбиения $\uptau$ отрезка [a, b] такова, что $\updelta_\uptau < \updelta_0$, то все точки ломанной $\uplambda_\uptau$ лежат в G, и для таких разбиений $\uptau$ имеет смысл рассматривать интеграл $\int\limits_{\updelta_\uptau}{Pdx}+ Qdy$.
+\par Рассмотрим интегралы $\int\limits_\uptau{P} dx и \int\limits_{\updelta_\uptau}P dx.$ Положим \\
+$x_i=x(t_i), y_i=y(t_i), P_i=P(x_i, y_i), \Updelta{x_i=x_i-x_{i-1}}, i=1, 2,  ..., i_0, \upsigma_\uptau=\sum\limits_{i=1}^{i_0}P_i\Updelta{x_i}.$
+\par Как известно (см. п. 47.2, свойство 4),
+\center{$\lim\limits_{\updelta_\uptau\rightarrow0} \upsigma_\uptau =\int\limits_\uptau{P} dx. \hfill{(47.35)}$}
 }
+
 \end{document}

@@ -1,0 +1,1080 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdftex 2017.3.22)  22 MAR 2017 02:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [a5paper, 11pt]{article}
+? 2.pdf
+l.1 \documentclass[a
+                    5paper, 11pt]{article}
+? 
+! Interruption.
+<to be read again> 
+                   5
+l.1 \documentclass[a5
+                     paper, 11pt]{article}
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               { upgreek }
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               [left=1.5cm,right=1cm,
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.3 \usepackage[
+                left=1.5cm,right=1cm,
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               [T2A]{fontenc}                       % –ü–æ–¥–¥–µ—Ä–∂–∫–∞ —Ä—...
+
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.5 \usepackage[
+                T2A]{fontenc}                       % –ü–æ–¥–¥–µ—Ä–∂–∫–∞ —Ä—...
+
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               [utf8]{inputenc}                     % –ö–æ–¥–∏—Ä–æ–≤–∫–∞ utf8
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.6 \usepackage[
+                utf8]{inputenc}                     % –ö–æ–¥–∏—Ä–æ–≤–∫–∞ utf8
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               [english, russian]{babel}
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.7 \usepackage[
+                english, russian]{babel}
+? 
+! Undefined control sequence.
+l.8 \pagestyle
+              {empty}
+? c
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? c
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+Overfull \hbox (10.05167pt too wide) in paragraph at lines 1--9
+[]\tenrm 5paper, 11pt]article  up-greek  [left=1.5cm,right=1cm, top=2cm,bottom=
+2cm,bindingoffset=0cm]geometry|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm 5
+.\tenrm p
+.\tenrm a
+.\tenrm p
+.etc.
+
+! Undefined control sequence.
+l.10 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.14 \noindent {\scriptsize
+                              {\bfseries 144}
+? 
+! Undefined control sequence.
+l.14 \noindent {\scriptsize   {\bfseries
+                                         144}
+? 
+! Undefined control sequence.
+l.15 \hfill{\textsection
+                        { } 47. –ö—Ä–∏–≤–æ–ª–∏–Ω–µ–π–Ω—ã–µ –∏–Ω—Ç–µ–≥—Ä–∞–ª—...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Runaway argument?
+ \\ –û–±–æ–∑–Ω–∞—á–∏–º —á–µ—Ä–µ–∑ $\upgamma _\upeta $ —Å–æ–≤–æ–∫—É–ø–\ETC.
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.17 \par
+          –í —Å–∏–ª—É —Ä–∞–≤–Ω–æ–º–µ—Ä–Ω–æ–π –Ω–µ–ø—Ä–µ—Ä—ã–≤–Ω–æ—Å—Ç–∏ —Ñ—É...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+! Undefined control sequence.
+<recently read> \updelta 
+                         
+l.18 ...—Ç–≤—É–µ—Ç —Ç–∞–∫–æ–µ —á–∏—Å–ª–æ $\updelta
+                                                  _0 > 0$, —á—Ç–æ –¥–ª—è –ª—...
+
+? 
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no é in font cmr10!
+! Undefined control sequence.
+l.18 ...–∏—Ö —É—Å–ª–æ–≤–∏—é $|t' - t''| < \updelta
+                                                  _0$, –≤—ã–ø–æ–ª–Ω—è–µ—Ç—Å—...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+! Undefined control sequence.
+l.19 $$\uprho
+             (M', M'')=\sqrt{[x(t'')-x(t')]^2+[y(t'')-y(t')]^2}<\upeta, $$
+? 
+! Undefined control sequence.
+l.19 ...{[x(t'')-x(t')]^2+[y(t'')-y(t')]^2}<\upeta
+                                                  , $$
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+! Undefined control sequence.
+<recently read> \upeta 
+                       
+l.21 ...–Ω–∏–∏, –Ω–µ –±–æ–ª—å—à–µ–º —á–µ–º $\upeta
+                                                  $, –∏ –ø–æ—Ç–æ–º—É –ª–µ–∂–...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+! Undefined control sequence.
+<recently read> \upgamma 
+                         
+l.21 ...$, –∏ –ø–æ—Ç–æ–º—É –ª–µ–∂–∞—Ç –≤ $\upgamma
+                                                  _\upeta$ –∏, —Å–ª–µ–¥–æ–≤–...
+
+? 
+! Undefined control sequence.
+l.21 ...ø–æ—Ç–æ–º—É –ª–µ–∂–∞—Ç –≤ $\upgamma_\upeta
+                                                  $ –∏, —Å–ª–µ–¥–æ–≤–∞—Ç–µ–ª...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   $
+l.21 ...–æ—Ç–æ–º—É –ª–µ–∂–∞—Ç –≤ $\upgamma_\upeta$
+                                                   –∏, —Å–ª–µ–¥–æ–≤–∞—Ç–µ–ª—...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.21 ...–æ—Ç–æ–º—É –ª–µ–∂–∞—Ç –≤ $\upgamma_\upeta$
+                                                   –∏, —Å–ª–µ–¥–æ–≤–∞—Ç–µ–ª—...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+! Undefined control sequence.
+<recently read> \updelta 
+                         
+l.21 ...æ–º—É, –µ—Å–ª–∏ –º–µ–ª–∫–æ—Å—Ç—å $\updelta
+                                                  _\uptau$ —Ä–∞–∑–±–∏–µ–Ω–∏—...
+
+? 
+! Undefined control sequence.
+l.21 ...–µ—Å–ª–∏ –º–µ–ª–∫–æ—Å—Ç—å $\updelta_\uptau
+                                                  $ —Ä–∞–∑–±–∏–µ–Ω–∏—è $\upt...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   $
+l.21 ...µ—Å–ª–∏ –º–µ–ª–∫–æ—Å—Ç—å $\updelta_\uptau$
+                                                   —Ä–∞–∑–±–∏–µ–Ω–∏—è $\upta...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.21 ...µ—Å–ª–∏ –º–µ–ª–∫–æ—Å—Ç—å $\updelta_\uptau$
+                                                   —Ä–∞–∑–±–∏–µ–Ω–∏—è $\upta...
+
+? 
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+! Undefined control sequence.
+<recently read> \uptau 
+                       
+l.21 ...updelta_\uptau$ —Ä–∞–∑–±–∏–µ–Ω–∏—è $\uptau
+                                                  $ –æ—Ç—Ä–µ–∑–∫–∞ [a, b] —Ç...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+! Undefined control sequence.
+<recently read> \updelta 
+                         
+l.21 ...–∫–∞ [a, b] —Ç–∞–∫–æ–≤–∞, —á—Ç–æ $\updelta
+                                                  _\uptau < \updelta_0$, —Ç–...
+
+? 
+! Undefined control sequence.
+l.21 ..., b] —Ç–∞–∫–æ–≤–∞, —á—Ç–æ $\updelta_\uptau
+                                                   < \updelta_0$, —Ç–æ –≤—Å–...
+
+? 
+! Undefined control sequence.
+l.21 ...–æ–≤–∞, —á—Ç–æ $\updelta_\uptau < \updelta
+                                                  _0$, —Ç–æ –≤—Å–µ —Ç–æ—á–∫–...
+
+? 
+! Double subscript.
+l.21 ...æ–≤–∞, —á—Ç–æ $\updelta_\uptau < \updelta_
+                                                  0$, —Ç–æ –≤—Å–µ —Ç–æ—á–∫–∏...
+
+? 
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+! Undefined control sequence.
+<recently read> \uplambda 
+                          
+l.21 ...Å–µ —Ç–æ—á–∫–∏ –ª–æ–º–∞–Ω–Ω–æ–π $\uplambda
+                                                  _\uptau$ –ª–µ–∂–∞—Ç –≤ G, ...
+
+? 
+! Undefined control sequence.
+l.21 ...æ—á–∫–∏ –ª–æ–º–∞–Ω–Ω–æ–π $\uplambda_\uptau
+                                                  $ –ª–µ–∂–∞—Ç –≤ G, –∏ –¥–ª...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   $
+l.21 ...—á–∫–∏ –ª–æ–º–∞–Ω–Ω–æ–π $\uplambda_\uptau$
+                                                   –ª–µ–∂–∞—Ç –≤ G, –∏ –¥–ª—...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.21 ...—á–∫–∏ –ª–æ–º–∞–Ω–Ω–æ–π $\uplambda_\uptau$
+                                                   –ª–µ–∂–∞—Ç –≤ G, –∏ –¥–ª—...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no π in font cmr10!
+! Undefined control sequence.
+<recently read> \uptau 
+                       
+l.21 ...–ª—è —Ç–∞–∫–∏—Ö —Ä–∞–∑–±–∏–µ–Ω–∏–π $\uptau
+                                                  $ –∏–º–µ–µ—Ç —Å–º—ã—Å–ª —Ä...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ª in font cmr10!
+! Undefined control sequence.
+l.21 ...∏–≤–∞—Ç—å –∏–Ω—Ç–µ–≥—Ä–∞–ª $\int_{\updelta
+                                                  _\uptau}{Pdx}+ Qdy$.
+? 
+! Undefined control sequence.
+l.21 ...—å –∏–Ω—Ç–µ–≥—Ä–∞–ª $\int_{\updelta_\uptau
+                                                  }{Pdx}+ Qdy$.
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.21 ...å –∏–Ω—Ç–µ–≥—Ä–∞–ª $\int_{\updelta_\uptau}
+                                                  {Pdx}+ Qdy$.
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.21 ...≥—Ä–∞–ª $\int_{\updelta_\uptau}{Pdx}+ Qdy$
+                                                  .
+? 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy7.pfb>
+Output written on main.pdf (1 page, 66012 bytes).
+PDF statistics:
+ 36 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
