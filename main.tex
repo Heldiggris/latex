@@ -1,25 +1,18 @@
 \documentclass[a5paper, 10pt, twoside]{article}
-\usepackage{ upgreek }
+\usepackage{upgreek}
 \usepackage[left=1.5cm,right=1cm,
-top=1cm,bottom=2cm,bindingoffset=0cm]{geometry}
+top=1cm,bottom=1.5cm,bindingoffset=0cm]{geometry}
 \usepackage[T1, T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english, russian]{babel}
-\usepackage{ amsmath }
-\usepackage{ amssymb }
+\usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{setspace}
 \usepackage{mathtools} 
-
 \usepackage[integrals]{wasysym}
-
 \renewcommand{\baselinestretch}{0.9}
-
-
 \pagestyle{empty}
-
 \begin{document}
-
-
 {\noindent\scriptsize{\bfseries 144}
 \hfill{\textsection{ } 47. Криволинейные интегралы}\\ \\}
 {
@@ -27,7 +20,6 @@ top=1cm,bottom=2cm,bindingoffset=0cm]{geometry}
 \par В силу равномерной непрерывности функций $x(t)$ и $y(t)$ на отрез-\linebreak ке
 [a, b] существует такое число $\updelta_0 > 0$, что для любых двух точек\linebreak $t' \in[a,b]$ и $t''\in[a, b]$, удовлетворяющих условию $|t' - t''| < \updelta_0$,\linebreak выполняется неравенство
 }
-
 {
 $$\small\uprho(M', M'')=\sqrt{[x(t'')-x(t')]^2+[y(t'')-y(t')]^2}<\upeta, $$
 \noindentгде $M' = (x(t'), y(t')), M'' = (x(t''), y(t''))$. Все точки отрезка\linebreak с концовками в точках $M'$ и $M''$, очевидно, также находятся от точки $M'$\linebreak на расстоянии, не большем чем $\upeta$, и потому лежат в $\upgamma_\upeta$ и, следова-\linebreakтельно, в G. Поэтому, если мелкость $\updelta_\uptau$ разбиения $\uptau$ отрезка [a, b]\linebreak такова, что $\updelta_\uptau < \updelta_0$, то все точки ломанной $\uplambda_\uptau$ лежат в G, и для таких\linebreak разбиений $\uptau$ имеет смысл рассматривать интеграл$\int\limits_{\updelta_\uptau}{Pdx}+ Qdy$.\linebreak
@@ -39,25 +31,52 @@ $x_i=x(t_i),\; y_i=y(t_i),\; P_i=P(x_i,\; y_i),\; \Updelta{x_i=x_i-x_{i-1}},\; i
 {\par Как известно (см. п. 47.2, свойство 4),\\}
 {$$\small\lim\limits_{\updelta_\uptau\;\to\;0}
 \upsigma_\uptau =\int\limits_\uptau{P\;} dx. \eqno{(47.35)}$$}
-\par Пусть, далее, $M_i=(x_i, y_i)$-вершины ломанной $\uplambda_\uptau$, тогда \\
+\par Пусть, далее, $M_i=(x_i,\; y_i)$-вершины ломанной $\uplambda_\uptau$, тогда \\
 {$$\small\int\limits_{\uplambda_\uptau}{P\;}=\sum\limits_{i=1}^{i_0}\int\limits_{M_{i-1}  M_i}P\; dx.\eqno{(47.36)}$$С другой стороны, заметим, что (употребляя обозначение п. 47.2)}{$$\small\int\limits_{M_{i-1} M_i}dx=\int\limits_{M_{i-1}\; Mi}cos \;\upalpha\; ds=|M_{i-1}\;M_i|cos\; \upalpha=\Updelta{x_i},$$ поэтому}
 {$$\small\upsigma_\uptau=\sum\limits_i{} P_i\; \Updelta{x_i}=\sum\limits_i\int\limits_{M_{i-1}\; M_i}P_i\; dx. \eqno{(47.37)}$$Обозначая через $L_\uptau$ длину ломанной $\uplambda_\uptau$, через S-длину кривой $\upgamma$,\linebreak а через $\upomega(\updelta; P)$-модуль непрерывности функции P(x, y) на ограни- \linebreak ченном замкнутом множестве $\upgamma_\upeta$, из (47.36) и (47.37) получим \\
 }
-{$$\small|\int\limits_{\uplambda_\uptau} P\; dx-\upsigma_\uptau| \leqslant \sum\limits_i|\int\limits_{M_{i-1}\; M_i} |P-P_i|\;dx\; | \leqslant$$}
+{$$\small\bigl|\int\limits_{\uplambda_\uptau} P\; dx-\upsigma_\uptau| \leqslant \sum\limits_i|\int\limits_{M_{i-1}\; M_i} |P-P_i|\;dx\; \bigr| \leqslant$$}
 \newpage
-
 {\noindent\scriptsize47.8 Интегралы, не зависящие от пути интегрирования
 \hfill{\bfseries 145 } \\ \\}
 {
-$$\leqslant\upomega(\updelta_\uptau;\;P)\sum\limits_i|\Updelta x_i| \leqslant \upomega(\updelta_\uptau;\;P)\;L_\uptau \leqslant \upomega(\updelta_\uptau;\;P)\;S.$$
+$$\small\leqslant\upomega(\updelta_\uptau;\;P)\sum\limits_i|\Updelta x_i| \leqslant \upomega(\updelta_\uptau;\;P)\;L_\uptau \leqslant \upomega(\updelta_\uptau;\;P)\;S.$$
 Отсюда
-$$\lim\limits_{\updelta_\uptau\;\to\;0}(\int\limits_{\uplambda_\uptau}P\;dx -\upsigma_\uptau)= 0,$$
+$$\small\lim\limits_{\updelta_\uptau\;\to\;0}\Bigl(\int\limits_{\uplambda_\uptau}P\;dx -\upsigma_\uptau \Bigr)= 0,$$
 и, значит, в силу (47.35)
-$$\lim\limits_{\updelta_\uptau\;\to\;0}\int\limits_{\uplambda_\uptau}P\;dx=\int\limits_{\uptau}P\;dx.\eqno{(47.38)}$$
+$$\small\lim\limits_{\updelta_\uptau\;\to\;0}\int\limits_{\uplambda_\uptau}P\;dx=\int\limits_{\uptau}P\;dx.\eqno{(47.38)}$$
 \parАналогично доказывается и равенство
-$$\lim_{\updelta_\uptau\;\to\;0}\int\limits_{\uplambda_\uptau}Q\;dy=\int\limits_\upgamma Q\;dy.\eqno{47.39}$$
+$$\small\lim_{\updelta_\uptau\;\to\;0}\int\limits_{\uplambda_\uptau}Q\;dy=\int\limits_\upgamma Q\;dy.\eqno{47.39}$$
+\parИз (47.38) и (47.39) непосредственно и следует утверждение\linebreak
+леммы, т. е. формула (47.34).
+\parЛемма доказана.
+\parЗ\;\;а\;\;м\;\;е\;\;ч\;\;а\;\;н\;\;и\;\;е. Утверждение, аналогичное лемме, справедливо\linebreak
+и для криволинейных интегралов в пространстве, причем доказа-\linebreak
+тельство пространственного случая проводится по той же схеме, что\linebreak
+и плоского.
+\parВернемся теперь к доказательству теоремы. Пусть $\upgamma$ - кусочно-\linebreak
+гладкая замкнутая кривая в области G, заданная некоторым пред-\linebreak
+ставлением $r(t),\; a\leqslant t \leqslant b$, и являющаяся объединением гладких\linebreak
+кривых $\upgamma_1,\; ...,\; \upgamma_k$. Впишем в каждую кривую $\upgamma_j,\; j=1, \;, 2,\; ...,\; k,$\linebreak
+ломанную $\uplambda_j$. Объединение всех ломанных $\uplambda_j,\; j=1, \;, 2,\; ...,\; k$ образует\linebreak
+замкнутую ломанную $\uplambda$, соответствующую некоторому разбиению $\uptau$\linebreak
+отрезка $[a,\; b]$. В силу доказанного
+$$
+\small\int\limits_\uplambda P\; dx+Q\;dy=0.
+$$
+Но, согласно лемме,
+$$
+\small\lim\limits_{\updelta_\uptau\;\to\;0}\int\limits_{\uplambda_j}P\;dx+Q\;dy=\int\limits_{\upgamma_j}P\; dx+Q\;dy, j=1,\;2,\; ...,\; k,
+$$
+и, следовательно,
+$$
+\small\lim\limits_{\updelta_\uptau\;\to\;0}\int\limits_\uplambda P\;dx + Q\;dy=\int\limits_\uplambda P\;dx+Q\;dy,
+$$
+поэтому
+$$
+\small\int\limits_\uptau P\; dx+Q\;dy=0.
+$$
+\parТеорема доказана.\\
+{\scriptsize 6} {\tiny\bfseries Зак. 24}{\scriptsize$\upgamma$}{\tiny\bfseries5}
 }
-
-
-
 \end{document}
